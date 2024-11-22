@@ -6,6 +6,9 @@ haryanshubham57@gmail.com
 
 [ShubhamHaryan24](https://github.com/ShubhamHaryan24)
 
+![image](https://github.com/user-attachments/assets/13a87b13-f0ad-4521-ac62-4194e256d40f)
+
+
 
 
 **Objective:**
@@ -40,7 +43,8 @@ Project Delivery Timelines: Measure how efficiently projects are being delivered
 
 **Data Overview**
 
-Data include
+Data include below columns
+
 Project_ID, Project_Name, Client_Name, Start_Date, End_Date, Status, Team_Size, Task_Completed, Task_Pending, Avg_Task_Time (hrs), Client_Satisfaction (%), Feedback_Score, Agile_Sprint_No, Predicted_End_Date, Team_Productivity (%), Predicted_Client_Satisfaction (%)
 
 ---
